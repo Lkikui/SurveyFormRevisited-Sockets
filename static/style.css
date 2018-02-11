@@ -1,0 +1,48 @@
+#wrapper {
+    width: 970px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.form {
+    padding: 10px;
+    width: 300px;
+    margin: 0 auto;
+    border: 2px solid;
+}
+
+.name {
+    margin-left: 54px;
+    border: 2px solid;
+    width: 156px;
+}
+.location {
+    border: 2px solid;
+    margin-left: 35px;
+    width: 163px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    outline: 1px inset black; outline-offset:-1px
+}
+.language {
+    border: 2px solid;
+    margin-left: 8px;
+    width: 163px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    outline: 1px inset black; outline-offset:-1px
+}
+.comment {
+    border: 2px solid;
+    width: 290px;
+    height: 60px;
+}
+
+.button {
+    margin-top: 10px;
+    margin-left: 241px;
+    background-color: #2B78E4;
+    color: white;
+    border-radius: 0px;
+    border: 2px solid black;
+}
